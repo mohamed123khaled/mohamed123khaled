@@ -12,15 +12,17 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+
 ## 👨‍💻 About Me
 
-🎓 Data Science Student at **Badr University in Assiut**
-📊 Passionate about **Data Analysis, Machine Learning, and Big Data**
-💡 Interested in building real-world projects using data
-🏆 ICPC Participant & Competitive Programmer
-🚀 Currently improving my skills in AI, ML, and Data Engineering
+🎓 Data Science Student at Badr University in Assiut  
+📊 Passionate about Data Analysis, Machine Learning, NLP,Tableau, and Big Data  
+🤖 Currently learning AI Automation using n8n  
+💻 Competitive Programmer | ICPC Participant  
+🚀 Building real-world projects using Python, SQL, Power BI, and AI  
+🔥 Always learning new technologies and improving my skills
+```
 
----
 
 ## 🌐 Connect With Me
 
