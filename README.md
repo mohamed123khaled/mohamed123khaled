@@ -21,7 +21,7 @@
 💻 Competitive Programmer | ICPC Participant  
 🚀 Building real-world projects using Python, SQL, Power BI, and AI  
 🔥 Always learning new technologies and improving my skills
-```
+
 
 
 ## 🌐 Connect With Me
