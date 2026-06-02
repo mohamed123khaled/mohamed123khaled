@@ -100,38 +100,8 @@
 
 ---
 
-# 💼 Featured Projects
 
-## 📊 Retail Orders Analysis
 
-✔ Data Cleaning & Preprocessing using Pandas
-✔ SQL Server Integration
-✔ Revenue & Profit Analysis
-✔ Interactive Dashboards using Power BI
-
----
-
-## ₿ Crypto Market Big Data Pipeline
-
-✔ Live Crypto Streaming Pipeline
-✔ Hadoop + HDFS + MapReduce
-✔ HBase Integration
-✔ Dockerized Environment
-✔ ZooKeeper Coordination
-
----
-
-## 🤖 Machine Learning Projects
-
-✔ PCA & Dimensionality Reduction
-✔ Logistic Regression
-✔ Decision Trees (CART)
-✔ K-Means Clustering
-✔ Data Visualization & Insights
-
----
-
-# 🏆 Competitive Programming
 
 💻 ICPC Participant
 🧩 Strong interest in Algorithms & Data Structures
@@ -139,12 +109,7 @@
 
 ---
 
-# 📈 GitHub Stats
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohamed123khaled&theme=radical&hide_border=true"/>
-</p>
 
 
 
